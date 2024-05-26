@@ -1,0 +1,100 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "title": "Hamburger",
+      "type": "Fast Food",
+      "price": 5.99,
+      "description": "A classic hamburger made with a juicy beef patty, fresh lettuce, tomato, onion, pickles, and cheese, served on a toasted bun.",
+      "image_url": "https://i.postimg.cc/GmcHzwBc/hamburger-512-512.png"
+    },
+    {
+      "id": "2",
+      "title": "Pizza",
+      "type": "Italian",
+      "price": 10.99,
+      "description": "A delicious pizza topped with marinara sauce, mozzarella cheese, pepperoni, mushrooms, onions, and peppers, baked to perfection.",
+      "image_url": "https://i.postimg.cc/XqfYcQ4G/pizza-512-512.png"
+    },
+    {
+      "id": "3",
+      "title": "Sushi",
+      "type": "Japanese",
+      "price": 12.99,
+      "description": "Fresh sushi rolls made with premium sushi rice, seaweed, fresh fish, avocado, and cucumber, served with soy sauce and wasabi.",
+      "image_url": "https://i.postimg.cc/DfL0TyLv/sushi-512-512.png"
+    },
+    {
+      "id": "4",
+      "title": "Taco",
+      "type": "Mexican",
+      "price": 3.99,
+      "description": "Authentic tacos filled with seasoned beef, lettuce, cheese, salsa, and sour cream, served in soft corn tortillas.",
+      "image_url": "https://i.postimg.cc/15St5hrp/taco-512-512.png"
+    },
+    {
+      "id": "5",
+      "title": "Pad Thai",
+      "type": "Thai",
+      "price": 9.99,
+      "description": "A classic Thai dish made with stir-fried rice noodles, shrimp, tofu, bean sprouts, peanuts, and a tangy tamarind sauce.",
+      "image_url": "https://i.postimg.cc/jdhjDgMB/pad-thai-512-512.png"
+    },
+    {
+      "id": "6",
+      "title": "Chicken Caesar Salad",
+      "type": "Salad",
+      "price": 8.99,
+      "description": "A refreshing salad made with crisp romaine lettuce, grilled chicken breast, Parmesan cheese, croutons, and Caesar dressing.",
+      "image_url": "https://i.postimg.cc/6p5pnrSq/chicken-caesar-512-512.png"
+    },
+    {
+      "id": "7",
+      "title": "Steak",
+      "type": "American",
+      "price": 15.99,
+      "description": "A juicy steak grilled to perfection, served with mashed potatoes, steamed vegetables, and a savory steak sauce.",
+      "image_url": "https://i.postimg.cc/cJPxpVJt/steak-512-512.png"
+    },
+    {
+      "id": "8",
+      "title": "Pasta Carbonara",
+      "type": "Italian",
+      "price": 11.99,
+      "description": "A classic Italian pasta dish made with spaghetti, pancetta, eggs, Parmesan cheese, and black pepper, topped with parsley.",
+      "image_url": "https://i.postimg.cc/0QmkPc6W/pasta-512-512.png"
+    },
+    {
+      "id": "9",
+      "title": "Fish and Chips",
+      "type": "British",
+      "price": 7.99,
+      "description": "Crispy battered fish served with golden brown fries, tartar sauce, and malt vinegar.",
+      "image_url": "https://i.postimg.cc/gjWYJ88Y/fish-n-chips-512-512.png"
+    },
+    {
+      "id": "10",
+      "title": "Pho",
+      "type": "Vietnamese",
+      "price": 9.99,
+      "description": "A traditional Vietnamese noodle soup made with beef or chicken broth, rice noodles, herbs, and meat slices.",
+      "image_url": "https://i.postimg.cc/h4LDYZRh/pho-512-512.png"
+    },
+    {
+      "id": "11",
+      "title": "BBQ Ribs",
+      "type": "American",
+      "price": 13.99,
+      "description": "Tender pork ribs slow-cooked and basted in barbecue sauce, served with coleslaw and baked beans.",
+      "image_url": "https://i.postimg.cc/029k1G9n/bbq-ribbs-512-512.png"
+    },
+    {
+      "id": "12",
+      "title": "Curry Chicken",
+      "type": "Indian",
+      "price": 10.99,
+      "description": "A flavorful Indian curry made with tender chicken pieces, onions, tomatoes, coconut milk, and a blend of spices.",
+      "image_url": "https://i.postimg.cc/X7xVjZJb/curry-chicken-512-512.png"
+    }
+  ]
+}
